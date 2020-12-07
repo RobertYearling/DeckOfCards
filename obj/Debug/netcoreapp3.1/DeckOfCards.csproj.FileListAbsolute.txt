@@ -1,0 +1,12 @@
+/Users/creative/Documents/Development/coding_dojo/c_sharp_stack/DeckOfCards/bin/Debug/netcoreapp3.1/DeckOfCards.deps.json
+/Users/creative/Documents/Development/coding_dojo/c_sharp_stack/DeckOfCards/bin/Debug/netcoreapp3.1/DeckOfCards.runtimeconfig.json
+/Users/creative/Documents/Development/coding_dojo/c_sharp_stack/DeckOfCards/bin/Debug/netcoreapp3.1/DeckOfCards.runtimeconfig.dev.json
+/Users/creative/Documents/Development/coding_dojo/c_sharp_stack/DeckOfCards/bin/Debug/netcoreapp3.1/DeckOfCards.dll
+/Users/creative/Documents/Development/coding_dojo/c_sharp_stack/DeckOfCards/bin/Debug/netcoreapp3.1/DeckOfCards.pdb
+/Users/creative/Documents/Development/coding_dojo/c_sharp_stack/DeckOfCards/obj/Debug/netcoreapp3.1/DeckOfCards.csprojAssemblyReference.cache
+/Users/creative/Documents/Development/coding_dojo/c_sharp_stack/DeckOfCards/obj/Debug/netcoreapp3.1/DeckOfCards.AssemblyInfoInputs.cache
+/Users/creative/Documents/Development/coding_dojo/c_sharp_stack/DeckOfCards/obj/Debug/netcoreapp3.1/DeckOfCards.AssemblyInfo.cs
+/Users/creative/Documents/Development/coding_dojo/c_sharp_stack/DeckOfCards/obj/Debug/netcoreapp3.1/DeckOfCards.csproj.CoreCompileInputs.cache
+/Users/creative/Documents/Development/coding_dojo/c_sharp_stack/DeckOfCards/obj/Debug/netcoreapp3.1/DeckOfCards.dll
+/Users/creative/Documents/Development/coding_dojo/c_sharp_stack/DeckOfCards/obj/Debug/netcoreapp3.1/DeckOfCards.pdb
+/Users/creative/Documents/Development/coding_dojo/c_sharp_stack/DeckOfCards/obj/Debug/netcoreapp3.1/DeckOfCards.genruntimeconfig.cache
